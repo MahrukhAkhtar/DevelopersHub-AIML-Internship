@@ -1,22 +1,22 @@
-# DevelopersHub-AIML-Internship
-Iris Dataset Visualization
-Project Overview
+#DevelopersHub-AIML-Internship
+##Iris Dataset Visualization:
+###Project Overview:
 This project is part of the AI/ML Engineering Internship at DevelopersHub Corporation.
-DataSet
+###DataSet
 Iris Data Set
 The dataset has 150 rows and 5 columns
-Tool Used
+###Tool Used
 Python
 Pandas
 Numpy
 scikit-learn
 Seaborn
 Matplotlib
-Visualizations
+###Visualizations
 Box Plot
 Scatter Plot
 Histogram
-Summary of Findings-
+###Summary of Findings-
 There are 3 species: Setosa, Versicolor, and Virginica.
 Setosa has noticeably smaller petals than the other two species.
 Setosa petal_length ≈ 1–2 cm
